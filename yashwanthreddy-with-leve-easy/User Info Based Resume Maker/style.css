@@ -43,7 +43,7 @@ input, textarea, select {
 
 #previewContent {
     padding: 10px;
-    color: white;
+    color: rgb(214, 130, 130);
 }
 
 .preview-container::-webkit-scrollbar {
