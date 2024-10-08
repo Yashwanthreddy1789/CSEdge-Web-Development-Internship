@@ -1,2 +1,4 @@
 # CSEdge-Web-Development-Internship
-web development
+web development 
+easy level tasks
+
